@@ -1,5 +1,5 @@
 #!/bin/bash
-mysql_user="mydb_slave_user"    
+mysql_user="mydb_slave_user"   
 mysql_password="mydb_slave_pwd" 
 root_password="111"             
 master_container=mysql_master
